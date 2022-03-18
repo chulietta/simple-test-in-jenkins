@@ -6,3 +6,6 @@ run:
 ```
 gradle test
 ```
+Страница проекта в Jenkins
+
+![alt text](screenshots/project_page_jenkins.jpg)
